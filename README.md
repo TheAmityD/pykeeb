@@ -15,5 +15,5 @@ And finally on line 11, use [MouseLoc](https://www.softpedia.com/get/Desktop-Enh
 ``...region=(ax, ay, bx, by))``  
 
 Then run the script. Ta-da!  
-Please don't ask me if there's errors. e
+Please don't ask me if there's errors. e  
 I make bad docs, so don't ask me either. a
